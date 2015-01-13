@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- The strings we use in menus -->
+    <string name="prescribe">Fill out Prescription</string>
+    <string name="lookup">Look up a Patient</string>
+    <string name="new_visit">Create New Visit</string>
+    <string name="update">Update Vital Signs</string>
+    <string name="urgency">Sort by Urgency</string>
+    <string name="save">Save Changes</string>
+    
+    <!-- <string name="view_previous">View Patient\'s Visit Records</string> -->
+
+    <drawable name="black">#000000</drawable>
+    <drawable name="dark_grey">#2B2B2B</drawable>
+    <drawable name="grey">#7F7F7F</drawable>
+    <drawable name="light_grey">#BBBBBB</drawable>
+    <drawable name="very_light">#E8E8E8</drawable>
+    <drawable name="blue">#33B5E5</drawable>
+    <drawable name="dark_blue">#0099CC</drawable>
+
+    <string name="app_name">Triage</string>
+    <string name="action_settings">Settings</string>
+    <string name="triage">Triage</string>
+    <string name="launch">Launch</string>
+    <string name="patient">Patient</string>
+    <string name="health_num">Input health card number (optional)</string>
+    <string name="add_visit">Create a new visit</string>
+    <string name="search">Search a patient</string>
+    <string name="vital_signs">Vital Signs</string>
+    <string name="title_activity_patient_list">PatientList</string>
+    <string name="clickReturn">Choose an action.</string>
+    <string name="patientlisttitle">Active Patients</string>
+    <string name="temperature">Temperature (°C)</string>
+    <string name="instruction">Please fill the updated information in the appropriate place.</string>
+    <string name="health_number">Health number</string>
+    <string name="name">Name</string>
+    <string name="birthdate">Birthdate (YYYY-MM-DD)</string>
+    <string name="attended">Name of doctor if attended by doctor</string>
+    <string name="bp">Blood pressure (SYS/DIA mmHg)</string>
+    <string name="hr">Heart rate (bpm)</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="just_update">Update</string>
+    <string name="visit_record_num">Enter Visit Record Number</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_lookup">LookupActivity</string>
+    <string name="title_activity_look_up">LookUpActivity</string>
+    <string name="must_input">Input Health Number</string>
+    <string name="just_search">Search</string>
+    <string name="title_activity_patient_display">Patient Information</string>
+    <string name="look_history">Look at previous records</string>
+    <string name="title_activity_complete_info">Patient Information</string>
+    <string name="title_activity_put_info">Update Patient Status</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_testing">TestingActivity</string>
+    <string name="view_urgency">Sort by Urgency</string>
+
+    <drawable name="white">#FFFFFF</drawable>
+    <drawable name="teal1">#80E6CC</drawable>
+    <drawable name="teal2">#99EBD6</drawable>
+    <drawable name="teal3">#B2F0E0</drawable>
+    <drawable name="teal4">#CCF5EB</drawable>
+    <drawable name="teal5">#E6FAF5</drawable>
+    <drawable name="orange1">#FFE0B2</drawable>
+    <drawable name="orange2">#FFEBCC</drawable>
+
+    <string name="presc">Record a Prescription</string>
+    <string name="enter_username">Input username</string>
+    <string name="enter_password">Input password</string>
+    <string name="login">Log In</string>
+    <string name="enter_name">Patient\'s name</string>
+    <string name="returning">Returning</string>
+    <string name="new_patient">New</string>
+    <string name="health_num_optional">Health # (optional if returning)</string>
+    <string name="full_name">Full Name</string>
+    <string name="year">yyyy</string>
+    <string name="month">mm</string>
+    <string name="day">dd</string>
+    <string name="new_patient_sign">Required for new patients:</string>
+    <string name="dash">-</string>
+    <string name="create">Create Visit</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="helloworld">Hello, world!</string>
+    <string name="empty">There is no data.</string>
+    <string name="title_activity_sort_urgency">SortUrgencyActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sortUrgency">Urgent!</string>
+    <string name="view_previous">View Previous Records</string>
+    <string name="discharged">Is discharged? (true/false)</string>
+    <string name="health_num_mandatory">Input Health Number</string>
+    <string name="previous_presc">Previous Prescription Record</string>
+    <string name="look_previous_presc">Look at previous prescription records</string>
+    <string name="add_presc">Add a new prescription</string>
+    <string name="input_presc_name">Input name of new medication</string>
+    <string name="input_presc_instruction">Input new medication instructions</string>
+    <string name="register">Register Patient</string>
+
+</resources>

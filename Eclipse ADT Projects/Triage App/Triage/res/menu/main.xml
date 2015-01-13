@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ 
+	<item android:id="@+id/lookup" 
+	    android:icon="@drawable/teal1"
+		android:title="@string/lookup" />
+ 
+	<item android:id="@+id/new_visit"
+		android:icon="@drawable/teal2"
+ 		android:title="@string/new_visit" />
+	
+	<item android:id="@+id/update"
+		android:icon="@drawable/teal3"
+ 		android:title="@string/update"
+	    />
+	
+	<item android:id="@+id/urgency" 
+	    android:title="@string/save" 
+	    android:icon="@drawable/teal4"
+	    />
+	
+	<item android:id="@+id/save"
+		android:icon="@drawable/teal5"
+ 		android:title="@string/save"
+	    />
+	
+	
+ 
+</menu>

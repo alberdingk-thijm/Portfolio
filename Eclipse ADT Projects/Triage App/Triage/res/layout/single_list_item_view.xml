@@ -1,0 +1,22 @@
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+  
+  <TextView android:id="@+id/product_label"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:padding="10dip"
+            android:textColor="#ffffff"/>
+  
+  <TextView android:id="@+id/patient_info"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textStyle="normal"
+            android:textColor="#ffffff"/>
+
+</LinearLayout>
