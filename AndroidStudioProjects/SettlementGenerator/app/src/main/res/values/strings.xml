@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types">
+        <item>@string/burg</item>
+        <item>@string/town</item>
+        <item>@string/city</item>
+        <item>@string/capital</item>
+    </string-array>
+    <string name="burg">Burg</string>
+    <string name="town">Town</string>
+    <string name="city">City</string>
+    <string name="capital">Capital</string>
+
+    <string name="app_name">Settlement Generator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="generate">Generate</string>
+    <string name="popText">popText</string>
+    <string name="settgen_outline">Choose a settlement size and generate its population.</string>
+
+</resources>
